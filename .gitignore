@@ -5,3 +5,10 @@ __pycache__/
 .venv/
 venv/
 *.log
+*.db → ignora todos os arquivos de banco de dados com extensão .db.
+.env → ignora o arquivo de variáveis de ambiente (geralmente contém senhas e chaves de API).
+__pycache__/ → ignora a pasta de cache criada pelo Python.
+*.pyc → ignora arquivos compilados do Python.
+.venv/ → ignora um ambiente virtual chamado .venv.
+venv/ → ignora um ambiente virtual chamado venv.
+*.log → ignora todos os arquivos de log.
