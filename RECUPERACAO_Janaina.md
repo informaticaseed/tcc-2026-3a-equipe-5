@@ -8,3 +8,4 @@ Explique a diferença entre app.py e repositorio.py e por que isso importa.
 Seja honesto. Mínimo de 4 frases.
 5. Plano para o 3o bimestre
 Liste pelo menos 3 compromissos concretos com o que vai fazer diferente.
+ 
