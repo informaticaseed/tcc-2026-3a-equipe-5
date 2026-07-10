@@ -5,6 +5,7 @@ Nome completo	GitHub	Turma
 (sara)	@nome de usuário	3A
 Tema: (Sistema de conscientização e apoio no combate ao tráfico de mulheres e adolescentes.) 
 Tecnologia: Python + Flask + SQLite
+
 # O que o sistema faz:
 O sistema tem como finalidade informar e conscientizar a sociedade sobre o tráfico de mulheres e adolescentes, disponibilizando conteúdos relacionados à prevenção, ao reconhecimento de situações de risco e aos canais oficiais de denúncia e assistência às vítimas. A plataforma também visa ampliar o acesso a informações seguras e confiáveis, promovendo a prevenção desse tipo de crime e incentivando a denúncia de casos suspeitos.
 # Como o grupo trabalha toda semana:
