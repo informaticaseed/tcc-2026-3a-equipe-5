@@ -19,6 +19,7 @@ import sqlite3
 
 app = Flask(__name__)
 
+
 # Configuração inicial da base de dados SQLite
 def init_db():
     conn = sqlite3.connect('database.db')
