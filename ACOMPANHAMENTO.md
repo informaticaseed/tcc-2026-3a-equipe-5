@@ -1,7 +1,7 @@
 # Acompanhamento Quinzenal — Prof. Rafael
-**Grupo:** [Nome do Grupo]
-**Turma:** 3A / 3B / 3C
-**Repositório:** [link]
+**Grupo:** Tráfico Humano
+**Turma:** 3A 
+
 
 ---
 
@@ -11,9 +11,9 @@
 
 | Integrante | O que se comprometeu a fazer |
 |-----------|------------------------------|
-| (nome 1) | |
-| (nome 2) | |
-| (nome 3) | |
+| Sara Ferreira | |
+| Janaína Gomes | |
+| Flávia | |
 
 ### Verificação em 08/08
 
