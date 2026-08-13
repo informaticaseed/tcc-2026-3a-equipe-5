@@ -11,9 +11,11 @@
 
 | Integrante | O que se comprometeu a fazer |
 |-----------|------------------------------|
-| Sara Ferreira | |
-| Janaína Gomes | |
-| Flávia | |
+| Sara Ferreira | - Desenvolvimento do site: iniciar o desenvolvimento do site com o cadastro da denúncias e listar as pessoas desaparecidas  |
+| Janaína Gomes | - Parte escrita do TCC: colocar no formato do modelo do TCC e finalizar metodologia |
+| Flávia | levantamento dos requisitos e diagrama de caso de uso  |
+
+
 
 ### Verificação em 08/08
 
