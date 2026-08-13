@@ -16,7 +16,7 @@
 
 | # | Funcionalidade | Prioridade | Status |
 |---|---------------|-----------|--------|
-| 1 | (escreva aqui) | Alta | ⏳ A fazer |
+| 1 | Site no lovable | Alta | ⏳ A fazer |
 | 2 | (escreva aqui) | Alta | ⏳ A fazer |
 | 3 | (escreva aqui) | Alta | ⏳ A fazer |
 | 4 | (escreva aqui) | Média | ⏳ A fazer |
