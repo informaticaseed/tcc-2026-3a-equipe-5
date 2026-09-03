@@ -16,8 +16,8 @@
 
 | # | Funcionalidade | Prioridade | Status |
 |---|---------------|-----------|--------|
-| 1 | Site no lovable | Alta | ⏳ A fazer |
-| 2 | (escreva aqui) | Alta | ⏳ A fazer |
+| 1 | Site no lovable | Alta | 🔄 Fazendo |
+| 2 | (escreva aqui) | Alta | Fazendo |
 | 3 | (escreva aqui) | Alta | ⏳ A fazer |
 | 4 | (escreva aqui) | Média | ⏳ A fazer |
 | 5 | (escreva aqui) | Média | ⏳ A fazer |
