@@ -5,7 +5,7 @@
 --- 
 
  
-## 👥 Integrantes
+## 👥 integrantes
 
 | Nome completo | GitHub | Turma |
 |--------------|--------|-------|
